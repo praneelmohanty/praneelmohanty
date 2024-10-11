@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my GitHub account 👋
+### I upload my website programs here as of now. Feel free to check them out! 😄
 
 <!--
 **praneelmohanty/praneelmohanty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
