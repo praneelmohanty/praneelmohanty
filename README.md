@@ -1,6 +1,6 @@
 ## Hey, this is Praneel!
 
-I am a freshman CS + Math major @ <a href="https://www.umass.edu/">UMass Amherst</a>. I build tools and websites. I am learning data manipulation and DSA. 
+I am a freshman CS + Math major @ <a href="https://www.umass.edu/">UMass Amherst</a>. I build tools and websites. I am currently learning data manipulation and DSA. 
 
 ### Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
